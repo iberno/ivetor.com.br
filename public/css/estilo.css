@@ -1,0 +1,27 @@
+.icon {
+    color: Tomato;
+    font-size: 2rem;
+}
+.masthead .masthead-bg {
+    background-color: rgb(61, 69, 76, .8);
+}
+.btn-secondary {
+    border-color: #638699;
+    background-color: #638699;
+}
+.overlay {
+    background-color: #BCD1E0;
+}
+.btn-secondary:active, .btn-secondary:focus, .btn-secondary:hover {
+    background-color: #547281 !important;
+    border-color: #547281 !important;
+}
+
+.form-control.is-invalid {
+     border: solid 3px Tomato !important;
+}
+.invalid-feedback {
+    color: tomato;
+    font-weight: bold;
+    font-size: 1rem;
+}
